@@ -367,10 +367,11 @@
 		"publisherId": "17fd9a78-e430-4a78-add2-ade4a8830352",
 		"publisherDisplayName": "Ritwick Dey",
 		"targetPlatform": "undefined",
-		"isApplicationScoped": false,
 		"updated": false,
 		"isPreReleaseVersion": false,
-		"installedTimestamp": 1681644824351,
-		"preRelease": false
+		"hasPreReleaseVersion": false,
+		"installedTimestamp": 1717854601959,
+		"pinned": false,
+		"source": "gallery"
 	}
 }
